@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm HIMANSHU SAINI
-**A passionate SW student @ DTU || DSA Enthusiast || Impact driven
+**A passionate SWE student @ DTU || DSA Enthusiast || DSML LEARNER || Impact driven
 
 Email Me 👉 ✉️ **himanshsaini417@gmail.com** For Collaboration/Project or Anything Else. 😊
 
