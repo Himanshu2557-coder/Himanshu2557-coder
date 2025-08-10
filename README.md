@@ -1,7 +1,7 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 
-<h1 align="center">Hi 👋, I'm HIMANSHU SAINI!</h1>
+<h1 align="center">Hi 👋, I'm HIMANSHU SAINI !</h1>
 
 A passionate SWE student @ DTU || DSA Enthusiast || DSML LEARNER || Impact driven
 **************************************************************************************************
