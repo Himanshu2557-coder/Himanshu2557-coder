@@ -2,7 +2,7 @@
 ]()
 <h1 align="center">Hi 👋, I'm HIMANSHU SAINI!</h1>
 
-# A passionate SWE student @ DTU || DSA Enthusiast || DSML LEARNER || Impact driven
+A passionate SWE student @ DTU || DSA Enthusiast || DSML LEARNER || Impact driven
 **************************************************************************************************
 
 Email Me 👉 ✉️ **himanshsaini417@gmail.com** For Collaboration/Project or Anything Else. 😊
