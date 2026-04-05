@@ -1,60 +1,126 @@
-[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
-]()
+<!-- ⚡ SYSTEM BOOT HEADER -->
 
-<h1 align="center">Hi 👋, I'm HIMANSHU SAINI !</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00FFF7&height=140&section=header&text=SYSTEM%20INITIALIZING...&fontSize=28&fontColor=00FFF7&animation=fadeIn"/>
+</p>
 
-A passionate SWE student @ DTU || DSA Enthusiast || DSML LEARNER || Impact driven
-**************************************************************************************************
+<!-- 🧠 HERO ENVIRONMENT -->
 
-Email Me 👉 ✉️ **himanshsaini417@gmail.com** For Collaboration/Project or Anything Else. 😊
-**************************************************************************************************
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" width="100%" />
+</p>
 
-- 🌱 **I’m currently learning:** DSA & DSML
-- 🤔 **I’m looking for help with:** Projects and Hackathon teams !
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** himanshsaini417@gmail.com
-- 😄 **Pronouns:**  Syntax Survivor !
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-***************************************************************************************************
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshu2557-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-****************************************************************************************************
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-*****************************************************************************************************
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himanshu-saini-19143b323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshsaini417@gmail.com) 
-
-******************************************************************************************************************
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-************************************************************************************************************
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himanshu2557-coder&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Himanshu2557-coder&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu2557-coder&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-************************************************************************************************************
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Himanshu2557-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FFF7&center=true&vCenter=true&width=700&lines=Booting+Developer+Environment...;Loading+Core+Modules...;DSA+%7C+Full+Stack+%7C+ML;System+Status:+ONLINE+⚡" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Himanshu2557-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🖥️ Developer Console
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```bash
+> profile.init()
+
+ROLE      : SWE @ DTU
+FOCUS     : DSA | FULL STACK | ML
+GOAL      : FAANG SDE
+STATUS    : BUILDING DAILY 🚀
+```
+
+</td>
+<td>
+
+```bash
+> stack.load()
+
+LANG      : C++ | JAVA | PYTHON | JS
+FRONTEND  : HTML | CSS | REACT
+BACKEND   : FIREBASE | MYSQL
+TOOLS     : GIT | GITHUB | VSCODE
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Himanshu2557-coder&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ⚡ Connect Interface
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-saini-19143b323">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:himanshsaini417@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 System Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu2557-coder&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000"/>
+</p>
+
+---
+
+## 📈 Activity Monitor
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu2557-coder&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Language Matrix
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu2557-coder&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Live Contribution System
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</p>
+
+---
+
+## ⚙️ System Logs
+
+```bash
+[BOOT] Initializing modules...
+[LOAD] Developer environment ready
+[SYNC] Tracking GitHub activity...
+[STATUS] Learning | Building | Scaling
+```
+
+---
+
+## 💬 Core Philosophy
+
+```bash
+> execute.mindset()
+
+"Build. Break. Learn. Repeat."
+```
