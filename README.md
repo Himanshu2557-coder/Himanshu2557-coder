@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="top">
 
-```bash id="finalA"
+```bash id="ultra1"
 > profile.init()
 
 NAME        : Himanshu Saini  
@@ -41,7 +41,7 @@ STATUS      :
 </td>
 <td width="50%" valign="top">
 
-```bash id="finalB"
+```bash id="ultra2"
 > stack.load()
 
 LANGUAGES   :
@@ -73,7 +73,7 @@ APPROACH    :
 
 ## 🏆 Achievements
 
-```bash id="achfinal"
+```bash id="ultra3"
 > system.achievements()
 
 • Strong foundation in Data Structures & Algorithms  
@@ -87,7 +87,7 @@ APPROACH    :
 
 ## 🧠 Technical Profile
 
-```bash id="techfinal"
+```bash id="ultra4"
 > analyze.capabilities()
 
 Problem Solving     : Data Structures & Algorithms  
@@ -99,15 +99,35 @@ Growth Curve       : Continuous Improvement ↑
 
 ---
 
+
 ## ⚡ Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-saini-19143b323">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:himanshsaini417@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/himanshu-saini-19143b323">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:himanshsaini417@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://x.com/himansh_saini5">
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/QuantumRift_5/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://medium.com/@himanshsaini417">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -134,7 +154,7 @@ Growth Curve       : Continuous Improvement ↑
 
 ## 🎮 Continuous Progress System
 
-```bash id="gamefinal"
+```bash id="ultra5"
 > system.progress()
 
 LEVEL        : 01 → ∞  
